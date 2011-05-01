@@ -3,7 +3,7 @@ package dnode.webbit;
 import dnode.DNode;
 import dnode.Server;
 import dnode.socketio.SocketIOWebSocketHandler;
-import webbit.WebServer;
+import org.webbitserver.WebServer;
 
 import java.io.IOException;
 

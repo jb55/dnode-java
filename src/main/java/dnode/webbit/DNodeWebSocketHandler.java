@@ -1,8 +1,8 @@
 package dnode.webbit;
 
 import dnode.DNode;
-import webbit.WebSocketConnection;
-import webbit.WebSocketHandler;
+import org.webbitserver.WebSocketConnection;
+import org.webbitserver.WebSocketHandler;
 
 import java.util.HashMap;
 import java.util.Map;

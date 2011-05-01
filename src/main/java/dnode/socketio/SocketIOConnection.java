@@ -1,7 +1,7 @@
 package dnode.socketio;
 
-import webbit.HttpRequest;
-import webbit.WebSocketConnection;
+import org.webbitserver.HttpRequest;
+import org.webbitserver.WebSocketConnection;
 
 import java.util.Map;
 import java.util.Set;

@@ -3,9 +3,9 @@ package dnode.webbit;
 import dnode.Callback;
 import dnode.ClientHandler;
 import dnode.DNode;
-import webbit.WebServer;
-import webbit.handler.EmbeddedResourceHandler;
-import webbit.netty.NettyWebServer;
+import org.webbitserver.WebServer;
+import org.webbitserver.handler.EmbeddedResourceHandler;
+import org.webbitserver.netty.NettyWebServer;
 
 import java.io.IOException;
 
